@@ -1,0 +1,7 @@
+{
+  "name": "friend-finder-ar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
